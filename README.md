@@ -1,6 +1,7 @@
 # 📌 Advanced Django To-Do App
 
-A full-featured **task management web application** built with **Django, SQLite, and Tailwind CSS**, featuring authentication, categories, priorities, due dates, search, filtering, and Django admin control.
+A full-featured **task management web application** built with **Django, SQLite, and Tailwind CSS**, 
+featuring authentication, categories, priorities, due dates, search, filtering, and Django admin control.
 
 ---
 
@@ -58,65 +59,8 @@ A full-featured **task management web application** built with **Django, SQLite,
 
 ## 📂 Project Structure
 ```python
-# 📌 Advanced Django To-Do App
-
-A full-featured **task management web application** built with **Django, SQLite, and Tailwind CSS**, featuring authentication, categories, priorities, due dates, search, filtering, and Django admin control.
 
 ---
-
-## 🚀 Features
-
-### 👤 User System
-- User registration & login
-- Secure authentication
-- Each user sees only their own tasks
-
-### ✅ Task Management
-- Create, update, delete tasks
-- Mark tasks as completed
-- Toggle task status instantly
-
-### 🏷️ Categories
-- Create custom categories (Work, Personal, Study, etc.)
-- Assign tasks to categories
-- User-specific category management
-
-### 📅 Task Enhancements
-- Due dates (calendar support)
-- Priority levels (Low / Medium / High)
-- Overdue detection
-
-### 🔍 Search & Filtering
-- Search tasks by title or description
-- Filter by:
-  - Status (All / Completed / Pending)
-  - Priority
-  - Category
-  - Due date (Today / Overdue / This Week)
-
-### 📊 Dashboard UI
-- Task statistics (completed vs pending)
-- Progress bar
-- Clean responsive UI with Tailwind CSS
-
-### 🛠️ Admin Panel
-- Full Django admin integration
-- Manage users, tasks, and categories
-- Superuser control panel at `/admin/`
-
----
-
-## 🧰 Tech Stack
-
-- **Backend:** Django 5+
-- **Database:** SQLite
-- **Frontend:** HTML + Tailwind CSS
-- **Auth:** Django Authentication System
-- **UI Design:** Responsive modern layout
-
----
-
-## 📂 Project Structure
 todoproject/
 │
 ├── manage.py
@@ -141,7 +85,6 @@ todoproject/
 ├── category_form.html
 
 ```
----
 ---
 
 ## 📦 Installation
