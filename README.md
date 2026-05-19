@@ -60,7 +60,6 @@ featuring authentication, categories, priorities, due dates, search, filtering, 
 ## 📂 Project Structure
 ```python
 
----
 todoproject/
 │
 ├── manage.py
